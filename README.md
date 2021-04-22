@@ -1,8 +1,7 @@
 
-**Mathematical Expressions, Automatic Differentiation and Algebraic Simplification:** 
+**Mathematical Expressions, Automatic Differentiation and Algebraic Simplification:**
 
-In this assignment we will put aside our game for a little while, and delve instead into the magical
-world of mathematics. We will implement a system that can represent nested mathematical
+A system that can represent nested mathematical
 expressions that include variables, evaluate their values for specific variable assignments,
 differentiate them, and simplify the results.
 In doing so we will work in a recursive framework, see some more examples of polymorphism, and
